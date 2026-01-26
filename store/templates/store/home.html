@@ -1,0 +1,21 @@
+<h1>Welcome to my E-commerce Store</h1>
+
+<h2>Products:</h2>
+<ul>
+  {% for product in products %}
+    <li>
+      <strong>{{ product.name }}</strong> - ${{ product.price }}<br>
+      {{ product.description }}
+    </li>
+  {% endfor %}
+</ul>
+<ul>
+  {% for product in products %}
+    <li>
+      <a href="{% url 'product_detail' product.id %}">
+        <strong>{{ product.name }}</strong>
+      </a> - ${{ product.price }}<br>
+      {{ product.description }}
+    </li>
+  {% endfor %}
+</ul>

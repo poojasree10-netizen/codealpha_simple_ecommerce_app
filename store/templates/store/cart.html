@@ -1,0 +1,10 @@
+<h1>Shopping Cart</h1>
+<ul>
+  {% for item in cart_items %}
+    <li>
+      {{ item.product.name }} - Quantity: {{ item.quantity }} - Price: ${{ item.product.price }}
+    </li>
+  {% endfor %}
+</ul>
+<a href="/">Continue Shopping</a>
+<a href="{% url 'place_order' %}">Place Order</a>
