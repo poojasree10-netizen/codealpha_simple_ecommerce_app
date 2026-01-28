@@ -73,5 +73,5 @@ ecommerce_project/
 ![image_alt](https://github.com/poojasree10-netizen/codealpha_simple_ecommerce_app/blob/4a1a4d86c1623a2cdffeaef1a0322f46ea75cef9/output2.png.png)
 ![image_alt](https://github.com/poojasree10-netizen/codealpha_simple_ecommerce_app/blob/6e791959e8a86a4049c1a9896773cffbe437edd6/output3.png.png)
 ![image_alt](https://github.com/poojasree10-netizen/codealpha_simple_ecommerce_app/blob/dc606078e96fe5296fb1816460dab9d1acbcd522/output4.png.png)
-![cart page](screenshots/output5.png)
+![image_alt](https://github.com/poojasree10-netizen/codealpha_simple_ecommerce_app/blob/60761dd3af7aa65f89f8ded2b2aec73476b87524/output5png.png)
 ![place order page](screenshots/output6.png)
