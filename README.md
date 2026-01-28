@@ -70,7 +70,7 @@ ecommerce_project/
 └── README.md
 #screenshots
 ![image alt](https://github.com/poojasree10-netizen/codealpha_simple_ecommerce_app/blob/45aa8607a028f4c3b369ef63caa7d586a2891bea/output1.png.png)
-![description page](screenshots/output2.png)
+![image_alt](https://github.com/poojasree10-netizen/codealpha_simple_ecommerce_app/blob/4a1a4d86c1623a2cdffeaef1a0322f46ea75cef9/output2.png.png)
 ![cart page](screenshots/output3.png)
 ![checkout page](screenhots/output4.png)
 ![cart page](screenshots/output5.png)
