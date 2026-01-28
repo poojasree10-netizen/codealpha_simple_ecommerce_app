@@ -69,7 +69,7 @@ ecommerce_project/
 ├── venv/
 └── README.md
 #screenshots
-![Homepage Screenshot](screenshots/output1.png)
+![image alt](https://github.com/poojasree10-netizen/codealpha_simple_ecommerce_app/blob/45aa8607a028f4c3b369ef63caa7d586a2891bea/output1.png.png)
 ![description page](screenshots/output2.png)
 ![cart page](screenshots/output3.png)
 ![checkout page](screenhots/output4.png)
